@@ -7,3 +7,4 @@ gabungkan ini dengan code ini
 buat diskon nya itu kelipatan seratus ribu ya dan juga di outputnya itu sesuaikan sama yang tadi aku kasih format nya seperti ini
 ini berikut gambar yang diperlukan buat melengkapi code nya
 coba buat kan kedalam java codenya dan harus sesuai outputnya kayak gini nanti model nya
+done
